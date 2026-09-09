@@ -45,8 +45,8 @@ I am a Software Systems student passionate about building data-driven web applic
 #### [FairRent](https://github.com/21Yu/FairRent)
 Web app that uses machine learning to evaluate rental listings and identify fair prices, overpriced units, and good deals.
 
-#### [Where To Live Canada](https://github.com/21Yu/where-to-live-canada)
-Web app that visualizes Canadian housing, employment, and cost-of-living trends to support relocation and home-buying decisions.
+#### [OpenDeals](https://github.com/21Yu/OpenDeals)
+Full-stack shopping app that searches Google Shopping, compares prices, and identifies top deals using Express, React, PostgreSQL, and Azure.
 
 #### [Autonomous Line-Following Robot](https://github.com/21Yu/ev3-line-follower)
 An autonomous navigation system mapping complex paths and obstacle tracking via sensor-driven hardware loops.
