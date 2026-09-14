@@ -57,7 +57,7 @@ I am a Software Systems student passionate about building data-driven web applic
 Web app that uses machine learning to evaluate rental listings and identify fair prices, overpriced units, and good deals.
 
 #### [OpenDeals](https://github.com/21Yu/OpenDeals)
-Full-stack shopping app that searches Google Shopping, compares prices, and identifies top deals using Express, React, PostgreSQL, and Azure.
+Full-stack shopping app that searches Google Shopping, compares prices, and identifies top deals.
 
 #### [Autonomous Line-Following Robot](https://github.com/21Yu/ev3-line-follower)
 An autonomous navigation system mapping complex paths and obstacle tracking via sensor-driven hardware loops.
